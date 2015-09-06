@@ -1,4 +1,4 @@
-package com.codenvy.example.clojute.test;
+package com.codenvy.example.clojure.test;
 
 import com.codenvy.example.clojure.App;
 
